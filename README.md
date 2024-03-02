@@ -12,7 +12,7 @@ The analysis includes:
 ## Usage
 
 ### Input File
-The input file required to run the code is provided in the repository: `flipkart_reviews.csv`
+The input file required to run the code is provided in the repository: `FlipkartReviews.csv`
 
 ### Google Colab Notebook
 Access the Google Colab notebook [here](https://colab.research.google.com/drive/1mjcOrwPm3NOJXMbv5fzf4yJRGK0H-gLz?usp=sharing). Simply open the notebook in Google Colab and follow the instructions to execute the code cells.
